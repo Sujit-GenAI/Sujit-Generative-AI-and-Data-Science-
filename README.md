@@ -40,7 +40,7 @@ Pandas • NumPy • Scikit-learn • Matplotlib
 - **[AI Agent for Data Analysis](https://github.com/yourusername/ai-data-agent)** — Autonomous agent using LangGraph  
 - **[Multimodal Generative System](https://github.com/yourusername/multimodal-genai)** — Text-to-Image and Visual Question Answering
 
-View all repositories → [github.com/yourusername](https://github.com/yourusername?tab=repositories)
+View all repositories → 
 
 ---
 
